@@ -1,4 +1,16 @@
 {
-  "username": "sifon",
-  "password": "sifon123"
+  "users": [
+    {
+      "username": "sifon",
+      "password": "b12257693e56fff5d7eb9466d86f6055",  // MD5 хеш от "password"
+      "license_active": true,
+      "expiry_date": "2030-12-31"
+    },
+    {
+      "username": "user1",
+      "password": "482c811da5d5b4bc6d497ffa98491e38",  // MD5 хеш от "password123"
+      "license_active": true,
+      "expiry_date": "2024-06-30"
+    }
+  ]
 }
