@@ -1,14 +1,4 @@
 {
-  "users": [
-    {
-      "username": "sifon",
-      "password": "sifon1488",
-      "uuid": "F3898416-F746-392A-7839-04421A03F5E0"
-    },
-    {
-      "username": "user2",
-      "password": "pass2",
-      "uuid": "123e4567-e89b-12d3-a456-426614174001"
-    }
-  ]
+  "username": "sifon",
+  "password": "sifon123"
 }
